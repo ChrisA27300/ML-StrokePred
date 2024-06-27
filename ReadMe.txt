@@ -1,7 +1,7 @@
 
 Code Instructions:
 
-1.I did my project on Python, using JupyterLab.
+1.Project done on Python, using JupyterLab.
 
 2. Libraries used are depicted in the first line of my notebook. I will list them anyways:
 -pandas 
